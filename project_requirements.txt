@@ -1,0 +1,5 @@
+yfinance>=0.2.18
+schedule>=1.2.0
+requests>=2.28.0
+feedparser>=6.0.10
+pytz>=2023.3
